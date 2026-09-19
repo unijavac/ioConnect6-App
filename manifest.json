@@ -1,0 +1,9 @@
+{
+  "version": "3.19",
+  "size": 891840,
+  "sha256": "bda900cae6a28a399fbd6ea7a68b439eb71b6383cf8704386900ad5833542423",
+  "releaseNotes": "Firmware 3.19.",
+  "target": "esp32",
+  "hardware": "ESP32-S",
+  "fileName": "WiiConnect_3.19.bin"
+}
