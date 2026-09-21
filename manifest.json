@@ -8,4 +8,5 @@
   "encrypted": true,
   "encryption": "esp_encrypted_img-rsa3072-aesgcm",
   "releaseNotes": "Firmware 3.23 - pierwszy zaszyfrowany OTA ioConnect6."
+  "url": "https://update.io-connect.pl/WiiConnect_3.23.enc",
 }
