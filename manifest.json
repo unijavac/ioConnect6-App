@@ -1,4 +1,5 @@
 {
+{
   "version": "3.23",
   "target": "esp32",
   "hardware": "ESP32-S",
@@ -7,6 +8,7 @@
   "sha256": "54f7f9cc8ba0514f7200c8fb00dd29855f9e24aa4f952f4dc0943e76b0048db1",
   "encrypted": true,
   "encryption": "esp_encrypted_img-rsa3072-aesgcm",
-  "releaseNotes": "Firmware 3.23 - pierwszy zaszyfrowany OTA ioConnect6."
-  "url": "https://update.io-connect.pl/WiiConnect_3.23.enc",
+  "releaseNotes": "Firmware 3.23 - pierwszy zaszyfrowany OTA ioConnect6.",
+  "url": "https://update.io-connect.pl/WiiConnect_3.23.enc"
+}
 }
