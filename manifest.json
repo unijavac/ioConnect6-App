@@ -1,9 +1,0 @@
-{
-  "version": "3.21",
-  "target": "esp32",
-  "hardware": "ESP32-S",
-  "fileName": "WiiConnect_3.21.bin",
-  "size": 921600,
-  "sha256": "b3775473495d0559c419d9f7e22db81a475f8084cd891bbcccdb5dc76b0aab7b",
-  "releaseNotes": "Firmware 3.21 - test OTA na Secure Boot V2 i Flash Encryption; bez zmian funkcjonalnych względem 3.20."
-}
